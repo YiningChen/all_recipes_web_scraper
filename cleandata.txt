@@ -1,0 +1,220 @@
+
+World's Best Lasagna	448	1788	36.5	876	29.7	29 %	28 %
+Broiled Tilapia Parmesan	224	220	0.8	479	25.4	6 %	5 %
+Awesome Slow Cooker Pot Roast	426	639	4.9	*768	45.6	< 1 %	< 1 %
+Brown Sugar Meatloaf	353	763	24.1	375	18.4	5 %	5 %
+Baked Ziti I	578	914	58.4	721	27.9	23 %	7 %
+Chicken Cordon Bleu II	584	655	7.7	473	41.6	28 %	20 %
+Sloppy Joes II	189	455	11.2	323	15.1	6 %	16 %
+Baked Teriyaki Chicken	272	1282	19.9	272	24.7	1 %	< 1 %
+Baked Pork Chops I	457	1142	36	*440	29.9	3 %	< 1 %
+Zesty Slow Cooker Chicken Barbecue	300	1058	32.4	331	23	3 %	2 %
+Chicken Marsala	448	543	13.3	411	28.8	8 %	3 %
+Grilled Salmon I	318	1092	13.2	389	20.5	< 1 %	5 %
+Slow Cooker Pulled Pork	335	990	49.4	474	21.2	3 %	< 1 %
+Chicken Enchiladas II	619	1459	66.8	397	26.1	13 %	24 %
+Slow Cooker Beef Stroganoff I	376	711	9.5	*319	22	17 %	3 %
+Easy Meatloaf	372	335	18.5	343	18.2	4 %	4 %
+Roast Sticky Chicken-Rotisserie Style	586	1351	3.7	603	61.7	11 %	5 %
+Maple Salmon	265	633	14.1	473	23.2	1 %	8 %
+Easy Slow Cooker French Dip	413	661	19.6	*504	39.1	2 %	< 1 %
+Salsa Chicken	287	863	6.8	*531	35.5	11 %	5 %
+World's Best Lasagna	448	1788	36.5	876	29.7	29 %	28 %
+Broiled Tilapia Parmesan	224	220	0.8	479	25.4	6 %	5 %
+Awesome Slow Cooker Pot Roast	426	639	4.9	*768	45.6	< 1 %	< 1 %
+Brown Sugar Meatloaf	353	763	24.1	375	18.4	5 %	5 %
+Baked Ziti I	578	914	58.4	721	27.9	23 %	7 %
+Chicken Cordon Bleu II	584	655	7.7	473	41.6	28 %	20 %
+Sloppy Joes II	189	455	11.2	323	15.1	6 %	16 %
+Baked Teriyaki Chicken	272	1282	19.9	272	24.7	1 %	< 1 %
+Baked Pork Chops I	457	1142	36	*440	29.9	3 %	< 1 %
+Zesty Slow Cooker Chicken Barbecue	300	1058	32.4	331	23	3 %	2 %
+Chicken Marsala	448	543	13.3	411	28.8	8 %	3 %
+Grilled Salmon I	318	1092	13.2	389	20.5	< 1 %	5 %
+Slow Cooker Pulled Pork	335	990	49.4	474	21.2	3 %	< 1 %
+Chicken Enchiladas II	619	1459	66.8	397	26.1	13 %	24 %
+Slow Cooker Beef Stroganoff I	376	711	9.5	*319	22	17 %	3 %
+Easy Meatloaf	372	335	18.5	343	18.2	4 %	4 %
+Roast Sticky Chicken-Rotisserie Style	586	1351	3.7	603	61.7	11 %	5 %
+Maple Salmon	265	633	14.1	473	23.2	1 %	8 %
+Easy Slow Cooker French Dip	413	661	19.6	*504	39.1	2 %	< 1 %
+Salsa Chicken	287	863	6.8	*531	35.5	11 %	5 %
+BBQ Pork for Sandwiches	355	623	15.2	544	30.2	2 %	1 %
+Burrito Pie	432	847	33.3	*388	19.8	5 %	14 %
+Braised Balsamic Chicken	196	511	7.6	*209	23.8	7 %	16 %
+Slow Cooker Chicken Stroganoff	456	1603	9.5	*408	33.4	23 %	3 %
+Angel Chicken Pasta	528	1265	48.3	*481	37.5	15 %	2 %
+Salisbury Steak	440	818	14.1	380	23	3 %	4 %
+Rosemary Ranch Chicken Kabobs	378	1097	4.8	*244	19.9	< 1 %	3 %
+Chuck's Favorite Mac and Cheese	591	720	45.5	222	26.8	19 %	< 1 %
+Eggplant Parmesan II	487	1663	62.1	*815	24.2	22 %	8 %
+Anniversary Chicken I	529	894	6.7	*664	62.8	7 %	9 %
+Marinated Grilled Shrimp	273	472	2.8	*329	31	*8 %	*7 %
+Slow-Cooker Pepper Steak	301	1189	11.7	609	28.2	9 %	79 %
+Homemade Black Bean Veggie Burgers	198	607	33.1	515	11.2	15 %	32 %
+Chicken Breasts with Balsamic Vinegar and Garlic	268	286	9.9	*608	30.9	2 %	8 %
+Sweet, Sticky and Spicy Chicken	232	1234	13.9	205	22.8	2 %	10 %
+Rempel Family Meatloaf	360	803	9.5	*285	26.8	7 %	5 %
+Aussie Chicken	813	1807	57.1	*437	47.2	7 %	7 %
+Famous Butter Chicken	448	639	9.3	*346	31.6	17 %	2 %
+Baked Dijon Salmon	422	480	17.6	*500	24.3	11 %	45 %
+Shepherd's Pie VI	452	295	52.5	1443	23.1	173 %	89 %
+Bow Ties with Sausage, Tomatoes and Cream	656	1088	50.9	*350	20.1	34 %	29 %
+Baked Salmon II	613	1235	2.9	*665	36.3	*7 %	*15 %
+Meatball Nirvana	343	940	15.3	513	31	8 %	6 %
+Yummy Honey Chicken Kabobs	178	442	12.4	*242	17.4	*13 %	*46 %
+Amazing Pork Tenderloin in the Slow Cooker	180	918	5.8	*450	24.5	< 1 %	3 %
+Szechwan Shrimp	142	500	6.7	230	18.3	10 %	9 %
+Chicken Tikka Masala	404	4499	13.3	*661	24.6	*49 %	*18 %
+Spicy Garlic Lime Chicken	220	555	2.4	341	27.7	6 %	9 %
+Addictive Sweet Potato Burritos	505	1029	76.6	*503	20	272 %	26 %
+Ginger Glazed Mahi Mahi	259	830	16	755	32.4	6 %	< 1 %
+American Lasagna	664	1900	48.3	*872	50.9	35 %	39 %
+Chicken Enchiladas I	498	1227	49.7	*496	26.7	19 %	18 %
+Lime Chicken Soft Tacos	204	433	18.9	200	16.2	4 %	7 %
+Stuffed Green Peppers I	463	971	35.5	783	27.2	30 %	261 %
+Honey Mustard Grilled Chicken	266	618	22	*219	24.7	< 1 %	< 1 %
+Baked Honey Mustard Chicken	232	296	24.8	264	25.6	5 %	2 %
+Juicy Roasted Chicken	423	662	1.2	305	30.9	16 %	< 1 %
+Chicken Fried Chicken	887	389	14.2	272	29.2	2 %	2 %
+Marinated Baked Pork Chops	166	256	6.5	262	14.6	1 %	3 %
+Shrimp Scampi Bake	420	681	1.8	*331	30	26 %	10 %
+Angela's Awesome Enchiladas	709	1764	52.5	*590	42.2	*28 %	*31 %
+Slow Cooker Italian Beef for Sandwiches	318	819	1.6	*530	39.4	< 1 %	< 1 %
+Caramelized Baked Chicken	393	1307	49.6	201	16.8	3 %	2 %
+Cajun Chicken Pasta	1109	1134	53.7	891	42.7	*85 %	*151 %
+Caramel Apple Pork Chops	262	124	17.1	318	13.8	4 %	6 %
+Slow Cooker Buffalo Chicken Sandwiches	578	2902	80.6	*396	31.3	*3 %	*2 %
+Honey Baked Chicken II	514	709	24	308	31.3	12 %	< 1 %
+Mini Meatloaves	255	656	16.6	248	15.1	8 %	5 %
+Fish Tacos	409	407	43	511	17.3	5 %	42 %
+Actually Delicious Turkey Burgers	183	354	2.3	292	20.9	2 %	3 %
+Chicken Milano	641	501	47	*681	36.3	22 %	8 %
+Homestyle Turkey, the Michigander Way	545	560	0.9	701	68.1	5 %	1 %
+Beef Stroganoff III	304	619	5.7	213	16.6	10 %	3 %
+Lemon Garlic Tilapia	142	93	1.4	492	23.1	4 %	12 %
+Chicken Cordon Bleu I	419	932	12.6	457	46.1	8 %	20 %
+Tomato Chicken Parmesan	513	1249	31.2	518	44.3	14 %	3 %
+Pizza Casserole	386	903	17.7	*283	20.2	6 %	26 %
+Best Tuna Casserole	611	1068	58.1	635	35.6	20 %	12 %
+White Cheese Chicken Lasagna	428	882	25.1	*419	28.6	127 %	7 %
+Unbelievable Chicken	337	736	22.4	*269	24.8	*< 1 %	18 %
+Baby Back Ribs	828	1580	45.7	790	36.6	6 %	2 %
+Hamburger Steak with Onions and Gravy	319	597	13.5	387	23.1	2 %	6 %
+Spaghetti Squash I	147	269	12.8	276	4.1	12 %	16 %
+Chicken Breasts Pierre	247	915	14.8	*528	*28.8	*12 %	*14 %
+Baked Slow Cooker Chicken	408	133	0.2	366	35.2	9 %	5 %
+Delicious Black Bean Burritos	692	1803	70.2	*296	21.2	34 %	70 %
+Marie's Easy Slow Cooker Pot Roast	540	272	18.2	1173	45.7	77 %	30 %
+Easy Mexican Casserole	632	1308	32.8	925	31.7	31 %	13 %
+Tangy Slow Cooker Pork Roast	210	483	9.4	381	24.6	*< 1 %	*3 %
+Slow-Cooker Barbecue Ribs	497	1245	33	*698	26	*12 %	25 %
+Garlic Prime Rib	562	395	1	409	29.6	< 1 %	1 %
+Italian Breaded Pork Chops	440	1026	33.4	429	30	8 %	5 %
+Famous Pork Chops	444	335	10.6	*258	19.7	18 %	< 1 %
+Chicken Noodle Casserole I	542	895	35.5	*283	23.3	17 %	< 1 %
+Spaghetti Carbonara II	444	417	44.7	258	16.4	5 %	4 %
+High Temperature Eye-of-Round Roast	227	123	0	359	26.6	0 %	0 %
+Burgundy Pork Tenderloin	400	676	8.2	1107	47.8	1 %	2 %
+Asian Orange Chicken	445	763	68.7	*309	17.8	3 %	24 %
+Taco Pie	687	863	50.6	*305	24.4	7 %	< 1 %
+Zucchini Patties	256	320	15.8	240	13.8	7 %	17 %
+Turkey and Quinoa Meatloaf	259	968	15.2	429	25.3	2 %	9 %
+Mushroom Pork Chops	210	924	9.6	600	23.6	< 1 %	5 %
+Chicken Fettuccini Alfredo	673	1386	57	*732	43.3	18 %	11 %
+Easy Garlic Broiled Chicken	303	615	2.3	194	16.8	12 %	3 %
+Artichoke Spinach Lasagna	396	1139	44.5	*556	21.1	102 %	26 %
+Alaska Salmon Bake with Pecan Crunch Coating	368	353	15.9	*411	26.2	8 %	19 %
+A Good Easy Garlic Chicken	214	368	1.7	329	27.6	7 %	3 %
+Baked Chicken Nuggets	308	989	14.6	237	19.3	13 %	3 %
+Peppered Shrimp Alfredo	707	1073	50.6	*513	28.4	*33 %	*53 %
+Kalua Pig in a Slow Cooker	243	715	0	348	25.9	*< 1 %	*< 1 %
+Chicken Parmigiana	528	1309	44.9	804	43.5	22 %	6 %
+Pesto Chicken Florentine	572	1707	57.3	*520	41.9	*30 %	*11 %
+Shrimp Lemon Pepper Linguini	481	354	47.5	*418	*31.5	*17 %	*48 %
+Balsamic Roasted Pork Loin	299	732	3.1	301	18.3	*< 1 %	1 %
+Connie's Zucchini "Crab" Cakes	196	320	23.2	227	5.6	*6 %	*17 %
+Chicken Breasts in Caper Cream Sauce	313	974	1.8	345	28.2	15 %	3 %
+Spinach Stuffed Chicken Breasts	449	685	5.2	520	33.4	170 %	7 %
+Barbecued Beef	276	562	13.5	*312	18.7	*6 %	*8 %
+Cottage Cheese Chicken Enchiladas	548	1685	34.4	*429	33.2	23 %	45 %
+Salsa Chicken Rice Casserole	477	1143	34.8	367	30	15 %	3 %
+Linda's Lasagna	494	1626	38.2	891	38.2	29 %	25 %
+Penne with Spicy Vodka Tomato Cream Sauce	435	544	52.7	*427	13.3	*22 %	*20 %
+Buffalo Style Chicken Pizza	785	1840	66.6	*156	37.1	*6 %	*12 %
+Marinated Flank Steak	275	935	3.4	*245	14.8	< 1 %	5 %
+Spinach Tomato Tortellini	400	885	43.9	*118	14.8	28 %	12 %
+Stuffed Peppers	248	564	25.6	659	16	20 %	160 %
+Honey Glazed Ham	521	1492	42.4	*370	26.1	5 %	< 1 %
+Slow Cooker Turkey Breast	273	309	1.5	*577	59.5	0 %	< 1 %
+Easy Tuna Casserole	469	708	37.1	*105	12.8	*4 %	*< 1 %
+Broccoli Chicken Divan	186	440	12.2	*356	15.5	16 %	113 %
+Slow Cooker Texas Pulled Pork	527	790	45.5	*606	31.9	10 %	9 %
+Chicken Piccata II	276	539	7.6	*193	*25.9	*9 %	*9 %
+Key West Chicken	184	735	5.6	235	25.3	< 1 %	1 %
+Swiss Chicken Casserole II	430	829	19	*365	38.5	12 %	2 %
+Foolproof Rib Roast	576	880	0.6	539	37	< 1 %	< 1 %
+Grilled Marinated Shrimp	447	800	3.7	*308	25.3	*11 %	*41 %
+Greek Chicken Pasta	488	444	70	*526	32.6	10 %	93 %
+Beef Tips and Noodles	314	673	41.1	*221	17.4	< 1 %	< 1 %
+Sage Pork Chops	159	1063	0.6	345	20.6	3 %	< 1 %
+Tuna Noodle Casserole from Scratch	562	793	39.9	520	30.8	31 %	11 %
+Cabbage Roll Casserole	352	840	25.5	691	17.1	7 %	90 %
+Cajun Chicken Pasta	935	1189	54	914	43.7	*87 %	*214 %
+Balsamic-Glazed Salmon Fillets	288	236	6.5	*540	28.5	2 %	11 %
+Chicken With Mushrooms	454	1108	23.8	*509	44.1	12 %	3 %
+Chicken Enchiladas V	352	794	30.6	*172	19.2	*12 %	*18 %
+Simple BBQ Ribs	441	4260	24.5	517	33.3	3 %	2 %
+Savory Garlic Marinated Steaks	576	2496	36	586	28.4	*1 %	*9 %
+Homemade Mac and Cheese	858	879	66.7	459	37.7	35 %	< 1 %
+Glazed Meatloaf I	589	500	25.2	490	27.9	5 %	14 %
+Sean's Falafel and Cucumber Sauce	586	1580	59.5	592	14.7	24 %	37 %
+Penne with Chicken and Asparagus	332	117	43.3	*301	16.7	9 %	6 %
+Firecracker Grilled Alaska Salmon	307	649	4.6	613	23.3	8 %	2 %
+Garlic Chicken Fried Chicken	391	935	37.3	368	32.8	9 %	2 %
+Baked Salmon Fillets Dijon	331	552	7.5	*348	25	11 %	< 1 %
+Scott Hibb's Amazing Whisky Grilled Baby Back Ribs	1043	1720	54.7	*1269	50.7	*18 %	*22 %
+California Grilled Veggie Sandwich	393	623	36.5	332	9.2	19 %	73 %
+Slow Cooker Ham	360	1425	18	367	25.8	0 %	0 %
+Asian Beef with Snow Peas	203	711	9.7	343	16	1 %	44 %
+Tofu Parmigiana	357	841	18.8	475	25.7	12 %	9 %
+Cabbage Rolls II	246	748	18.3	455	19	5 %	44 %
+Basil Chicken over Angel Hair	362	536	37.8	548	28.4	23 %	28 %
+Cheddar Baked Chicken	368	866	19.9	191	22.2	15 %	6 %
+Angel Hair Pasta with Shrimp and Basil	527	969	46.7	869	34	79 %	62 %
+Filet Mignon with Rich Balsamic Glaze	367	64	5.7	402	20.3	< 1 %	< 1 %
+Pollo Fajitas	210	344	5.7	453	27.6	7 %	50 %
+Sour Cream Pork Chops	257	485	14.3	*317	*16.9	*5 %	*3 %
+Suki's Spinach and Feta Pasta	451	656	51.8	641	17.8	48 %	38 %
+Cajun Seafood Pasta	695	1054	62.2	532	31.5	52 %	33 %
+Guinness® Corned Beef	286	1384	14.4	*355	16.8	*0 %	*51 %
+Baked Ziti IV	489	801	43.8	538	22.1	15 %	5 %
+Chicken Scampi II	458	678	1.4	340	27.7	16 %	7 %
+To Die For Fettuccine Alfredo	964	582	84	285	23.7	38 %	< 1 %
+Stuffed Cabbage Rolls	223	657	13.3	338	12.8	36 %	42 %
+Fettuccine with Sweet Pepper-Cayenne Sauce	475	403	69.3	414	20.3	73 %	163 %
+Creamy Pesto Shrimp	646	437	43	217	23.1	29 %	4 %
+Beef and Bean Chimichangas	821	1855	83.6	*746	40.1	24 %	36 %
+Chicken and Bacon Shish Kabobs	235	919	14.4	*387	18.9	*2 %	*9 %
+Kung Pao Chicken	437	596	25.3	*621	34.4	*3 %	*9 %
+Chicken Makhani (Indian Butter Chicken)	408	620	15.6	*625	23.4	*24 %	*19 %
+Baked Ziti III	761	1258	74.9	954	36.2	32 %	9 %
+Indian Chicken Curry II	313	268	14	576	19.1	11 %	26 %
+Spanish Rice Bake	350	604	24.9	445	18.5	*5 %	36 %
+Mouse's Macaroni and Cheese	463	1333	34.2	398	23	23 %	< 1 %
+Charley's Slow Cooker Mexican Style Meat	260	315	3.3	254	18.4	10 %	68 %
+Amy's Garlic Egg Chicken	508	1562	24.6	364	37.5	15 %	4 %
+Clark's Quiche	444	1078	14.6	332	21.5	53 %	14 %
+Crispy Rosemary Chicken and Fries	497	145	27.6	*971	24.4	*3 %	*25 %
+Baked Scallops	363	565	15.6	587	31.3	16 %	10 %
+Sausage Pasta	423	1077	39	*475	22.3	118 %	23 %
+Pepperoncini Beef	998	2550	71.5	*738	55.9	15 %	2 %
+Oven Fried Chicken III	690	967	17.9	336	34.1	7 %	< 1 %
+Stuffed Peppers My Way	385	1595	52.6	*463	10.8	28 %	179 %
+Italian Sausage, Peppers, and Onions	461	857	7	445	17.1	22 %	93 %
+Meatball Sandwich	781	1570	78.2	*780	43.6	*20 %	*9 %
+Pork Chops for the Slow Cooker	146	1337	10.6	308	16	2 %	3 %
+Chipotle Crusted Pork Tenderloin	183	667	11.7	391	20.4	24 %	6 %
+Blackened Chicken	135	205	0.9	228	24.7	8 %	1 %
+Brooklyn Girl's Penne Arrabiata	588	1034	75.3	644	33.6	44 %	25 %
+Black Beans and Rice	140	354	27.1	*298	6.3	*< 1 %	*6 %
